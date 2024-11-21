@@ -1,5 +1,6 @@
 # Practica_2.2_EDES
-<b>TAREA GRUPAL (Cristian(1, 4), Francisco(2), Carlos(3))</b>
+<b>TAREA GRUPAL (Cristian(1, 4), Francisco(2), Carlos(3))
+IDEs utilizados: PyCharm / VSCode</b>
 
 1. **Características comunes**:
    - **Edición de código**: Autocompletado, resaltado de errores y snippets.
