@@ -3,13 +3,13 @@
 IDEs utilizados: PyCharm / VSCode</b>
 
 1. **Características comunes**:
-   - **Edición de código**: Autocompletado, resaltado de errores y snippets.
-   - **Depuración**: Paso a paso, puntos de interrupción; PyCharm es más avanzado en Python.
-   - **Control de versiones**: Ambos integran Git, pero PyCharm ofrece gestión avanzada en su versión pro.
+   - **Edición de código**: Autocompletado, resaltado de errores, navegación rápida...
+   - **Depuración**: Paso a paso, puntos de interrupción, evaluación de expresiones...
+   - **Control de versiones**: Integración con Git, historial de cambios, vista de diferencias entre archivos...
 
 2. **Diferencias**:
-   - **Manejo de módulos**: PyCharm es más completo en Python; Visual Studio Code depende de extensiones.
-   - **Personalización**: Visual Studio Code es altamente personalizable, PyCharm es más limitado.
+   - **Manejo de módulos**: PyCharm es más completo en Python, ya que Visual Studio Code depende de extensiones.
+   - **Personalización**: Visual Studio Code es altamente personalizable, mientras que PyCharm es más limitado.
    - **Generación de ejecutables**: PyCharm facilita el empaquetado en Python; en Visual Studio Code es posible pero depende de configuraciones extra.
 
 3. **Uso ideal**:
@@ -17,7 +17,10 @@ IDEs utilizados: PyCharm / VSCode</b>
    - **PyCharm** es ideal para proyectos complejos en Python, como ciencia de datos o IA.
 
 4. **Recomendación para un equipo con Python, Java o Kotlin**:
-   - Usar **IntelliJ IDEA** para Java y Kotlin, **PyCharm** para proyectos solo en Python, y **Visual Studio Code** si buscan flexibilidad en múltiples lenguajes.
+   - Para Python: PyCharm (Integración Django, depuración, etc.)
+   - Para Java o Kotlin: IntelliJ IDEA (refactorización, depuración para JVM, etc.)
+   - Términos generales / flexibilidad: VSCode (Menor consumo de recursos, accesibilidad a varias extensiones, etc.)
+
 
 
 Tabla comparativa de **Visual Studio Code** y **PyCharm** destacando sus características comunes y específicas:
