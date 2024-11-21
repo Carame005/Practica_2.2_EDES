@@ -1,5 +1,5 @@
 # Practica_2.2_EDES
-<b>TAREA GRUPAL (Cristian(1), Francisco(2), Carlos(3), Jaime(4)
+<b>TAREA GRUPAL Cristian(1), Francisco(2), Carlos(3), Jaime(4)
 IDEs utilizados: PyCharm / VSCode</b>
 
 1. **Características comunes**:
